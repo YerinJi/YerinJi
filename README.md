@@ -32,3 +32,13 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br><br>
+<details>
+<summary align=center><strong>🔎 Show  more about Yerin 🔍</strong></summary>
+<div align=center>
+  <h3>🏆 Awards 🏆</h3>
+</div>
+<div align=center>
+  <p>- Hallym Univ. 제1회 인공지능융합학부 학술제 최우수상 수상 (2022.12)</p>
+  <p>- Hallym Univ. 제6회 Hallym SW Week 오픈소스 웹개발 해커톤 장려상 수상 (2023.11)</p>
+</div>
