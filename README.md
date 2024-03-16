@@ -22,6 +22,11 @@ Here are some ideas to get you started:
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
   	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=Python&logoColor=white">
+	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+	<img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=scsst&logoColor=white">
 </div>
 <br>
 <div align=center>
@@ -30,7 +35,10 @@ Here are some ideas to get you started:
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007396?style=for-the-badge&logo=Java&logoColor=white">
+	<img src="https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=Java&logoColor=white">
+	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+	<img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=GitHub&logoColor=white">
   	<img src="http://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 <br><br>
