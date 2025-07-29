@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 	<img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=scsst&logoColor=white">
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/YerinJi/github-readme-stats)
 </div>
 <br>
 <div align=center>
